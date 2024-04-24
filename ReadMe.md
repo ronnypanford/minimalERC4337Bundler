@@ -1,7 +1,7 @@
 Minimal ERC-4337 Bundle
 =======================
 
-This repository contains a minimal implementation of an ERC-4337 bundle, designed to facilitate the bundling and execution of multiple Ethereum transactions into a single transaction. This project is structured to provide a foundational understanding of how ERC-4337 bundles work and how they can be implemented in a Node.js environment using TypeScript.
+This repository contains a minimal implementation of an ERC-4337 bundle, designed to facilitate the bundling and execution of User Operations through the Ethereum EntryPoint contract.
 
 Features
 --------
